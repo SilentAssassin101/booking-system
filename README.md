@@ -12,3 +12,5 @@ I plan to implement the following:
 - Includes a mailing system for user authentication
 - Can be integrated with Google Calendar
 - And more!
+
+### Total Time Invested: 1 hour
