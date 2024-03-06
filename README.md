@@ -2,7 +2,7 @@
 This is a **WORK IN PROGRESS** booking system I am working on
 
 So far I have just started working on the layout of the main page. 
-I will be working on this system for an hour a night until it is done. 
+~~I will be working on this system for an hour a night until it is done. ~~ *I lied*
 I plan to implement the following: 
 - Flask backend
 - SQL data storage
